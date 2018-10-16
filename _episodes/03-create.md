@@ -681,9 +681,13 @@ but it does find the copy in `thesis` that we didn't delete.
 {: .callout}
 
 > ## Using Wildcards
->
-> When run in the `molecules` directory, which `ls` command(s) will
-> produce this output?
+> 
+> This exercise refers to the `data-shell/molecules` directory. `ls` gives the following output:
+> ~~~
+> cubane.pdb  ethane.pdb  methane.pdb  octane.pdb  pentane.pdb  propane.pdb
+> ~~~
+> {: .output}
+> Which `ls` command(s) will produce this output?
 >
 > `ethane.pdb   methane.pdb`
 >
